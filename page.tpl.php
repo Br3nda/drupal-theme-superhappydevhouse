@@ -20,9 +20,7 @@
 					<?php if ($site_name){ ?>
 					<h1><a href="<?php print url() ?>" title="<?php print t('Home') ?>" rel="home"><?php print $site_name ?></a></h1>
 					<?php } ?>
-					<?php if ($site_slogan){ ?>
-						<div class="description"><?php print $site_slogan ?></div>
-					<?php } ?>
+						<div class="description">rapid development :: ad-hoc collaboration :: cross pollination</div>
 					
 						
 						<?php if ($primary_links){ ?>
